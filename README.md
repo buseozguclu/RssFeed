@@ -1,7 +1,13 @@
 # RssFeed
+Firstly, open  Anaconda Prompt then install -easy_install virtualenv then virtualenv flaskapp
+In Anaconda Enviroments install Feedparser
+In Anaconda Prompt install pymongo -pip install pymongo
+
 ---------------IMPORTS LIBRARY-----------------
 Flask
 
+PYMONGO
+For connecting open the app no write on tabs, directly click connect
 Pymongo --> Connect to Moongo Db
 Use Mongo DB Compass Community Version
 Localhost:27017 is default MongoDB
